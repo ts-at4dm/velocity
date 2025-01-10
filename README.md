@@ -2,12 +2,13 @@
     <h1>Velocity</h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h2>Current Stack</h2>
 </div>
 
-<div>
-    <a href=""> [![My Skills](https://skillicons.dev/icons?i=go&perline=8)](https://skillicons.dev) </a>
+<div align="left">
+
+<a href=""> [![My Skills](https://skillicons.dev/icons?i=go&perline=8)](https://skillicons.dev) </a>
 
 </div>
 
