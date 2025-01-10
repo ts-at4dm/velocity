@@ -8,7 +8,11 @@
 
 <div align="left">
 
-<a href=""> [![](https://skillicons.dev/icons?i=go,&perline=8)](https://skillicons.dev) </a>
+<a href=""> <div align="left">
+
+<a href=""> [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) </a>
+
+</div> </a>
 
 </div>
 
