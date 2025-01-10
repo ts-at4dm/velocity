@@ -50,7 +50,7 @@
 </div>
 
 <div>
-    <p>This is in the beginning stages! Any and all help is very much welcomed./p>
+    <p>This is in the beginning stages! Any and all help is very much welcomed.</p>
     <ol>
         <li>Fork the repo</li>
         <li>Create a new branch: git checkout -b {new-branch-name}</li>
