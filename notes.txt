@@ -1,0 +1,11 @@
+9: creates the function deleteTempFiles with parameter of tempDirs which is a slice of strings. Error is a built in go type that represents an error condition. Its an interface that has a single method Error() which returns a string describing the error... By specifying error as a return type, it tells go that this function may return an error if something goes wrong.
+
+11: uses a for loop with the index being omitted with placeholder _ and iterating through the values instead of the index. If it were to iterate through both, the index and the tempDir, with the current logic, it would only print the index's. Index's being the actual directory path and not the files that were deleted. Key is the directory, value is the files in the directories
+
+12: In Go, functions that can potentially produce an error return the error value as the last result. which is why err is at the end of contents, err. os.ReadDir(tempDir) reads the files and if there is an error reading the directory, it outputs the error with the details of the cause. os.ReadDir() reads the directory specified and os.DirEntry which is built into function, returns a slice (list) of all the files and or subdirectories locat
+
+13: states that if the line above contains an error, to return line 14.
+
+14: returns the error and details if there is one. fmt.Errorf not only formats the error message but returns it as an error type. This allows your program to handle the error in a more structured way, such as logging it, retrying, or aborting. %s if specifically for formatting strings and %v is a generic place holder that works for any type. It will try to display the value in its default format.
+
+18: 
