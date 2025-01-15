@@ -36,10 +36,10 @@ func optimizeServices() {
 func main() {
 	// Path to the temporary files directory
 	tempDir := []string{
-		`c:/users/terran.stone/downloads/a_testfiles`,
-		`c:/users/terran.stone/downloads/b_testfiles`,
-		`c:/users/terran.stone/downloads/c_testfiles`,
-		`c:/users/terran.stone/downloads/d_testfiles`,
+		`c:\Windows\Downloaded Program Files`,
+		`c:\Users\<YourUsername>\AppData\Local\Microsoft\Windows\INetCache`,
+		`c:\Users\<YourUsername>\AppData\Local\Microsoft\Windows\WER`,
+		`c:\Users\<YourUsername>\AppData\Local\Microsoft\DirectX Shader Cache`,
 
 
 }
