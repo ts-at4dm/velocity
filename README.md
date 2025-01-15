@@ -2,14 +2,15 @@
     <h1>Velocity</h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h2>Current Stack</h2>
 </div>
 
-<div>
-    <a href=""> [![My Skills](https://skillicons.dev/icons?i=go&perline=8)](https://skillicons.dev) </a>
+<div align="center">
 
-</div>
+<a href=""> [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) </a>
+
+</div> </a>
 
 </div>
 
@@ -49,7 +50,7 @@
 </div>
 
 <div>
-    <p>This is in the beginning stages! Any and all help is very much welcomed./p>
+    <p>This is in the beginning stages! Any and all help is very much welcomed.</p>
     <ol>
         <li>Fork the repo</li>
         <li>Create a new branch: git checkout -b {new-branch-name}</li>
